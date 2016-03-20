@@ -1,4 +1,4 @@
-package com.example.victorhugo.justjava;
+package com.example.victorhugo.agenciadafaxina;
 
 import org.junit.Test;
 
